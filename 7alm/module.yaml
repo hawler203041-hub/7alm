@@ -1,0 +1,18 @@
+id: 7anm
+name: 7anm
+version: v1.0
+versionCode: 1
+author: Kilo
+description: |
+  Performance and smoothness optimizations for Samsung Galaxy J7 (j7elte)
+  Designed for crDroid Android 12.
+  Features:
+  - CPU governor tuning (schedutil/interactive)
+  - Moderate min CPU frequency boost for responsiveness
+  - GPU frequency floor optimization
+  - IO scheduler optimization (deadline/mq-deadline)
+  - Memory management tuning (balanced swappiness, vm tweaks)
+  - CPU input boost for touch responsiveness
+  - Animation scale reduction (0.5x)
+  - Dalvik VM tuning for reduced GC
+  - SurfaceFlinger touch timer optimization
